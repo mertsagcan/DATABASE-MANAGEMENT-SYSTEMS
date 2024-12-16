@@ -1,0 +1,51 @@
+product_id,name,category_id,weight,price
+93a76885-35f4-4fa6-ad64-d3187d7250ec,Smartphone,15,0.29,500
+e6d78460-25f8-4895-8a58-b105a1895bb3,Laptop,10,2.68,1500
+b9e96b5b-ff5d-4672-b756-6b29f42ca292,Tablet,3,0.77,600
+321f212c-82d9-4e7d-89ad-ce14a9dc4be5,Headphones,8,0.89,200
+c001e669-6bfa-42b3-a15b-650d90b52ece,Smartwatch,1,0.2,150
+b8afce90-7d6b-4b20-a1f7-5834e03332d7,Camera,6,1.41,300
+fc1efb8f-f18b-464e-9258-e7f198c04d17,Printer,13,2.62,270
+d15ca868-4f26-4bc2-8159-b618b051e2f1,Keyboard,16,0.46,80
+f866bd10-292b-4dc4-bf61-07fcf89999d9,Mouse,11,0.1,50
+363bcb79-ca33-4b0e-a3c2-92e91997d921,Monitor,12,3.19,1200
+f6198779-2ac7-4977-b36f-bdb928a023b2,Desktop Computer,7,9.07,3200
+c7a4e539-2eee-4368-9216-2af47514b4ef,External Hard Drive,2,0.31,60
+5fc9d378-f866-49ca-b6af-a516ccba8811,Graphics Tablet,3,0.91,800
+7b6609b2-a353-4946-ab27-baed336023a0,Projector,4,7.96,2000
+91c32b89-9f7c-4898-9ef9-e7e5c1fdd96b,Fitness Tracker,1,0.1,120
+a7471685-acb0-4b06-ae35-c3807153082e,Router,9,0.27,150
+cbe5f998-6866-4423-8708-616416fe1c49,Gaming Console,5,4.32,2500
+d9c44d87-2cb5-475f-94cb-56d6dcc0934c,Bluetooth Speaker,4,1.02,75
+b087ab0e-3486-4712-97c4-f70b5800359e,E-book Reader,15,0.55,45
+8d94cdc9-e74d-4cf6-9737-6bcb96b76912,Digital Camera,6,2.97,200
+300c60f3-b199-4627-baeb-36de56d396fb,Action Camera,6,1.66,350
+4ce49aba-2144-4aed-9722-835c612ce505,Webcam,6,0.1,25
+89244e9b-431f-47d1-9609-d7ef8c38da30,Microphone,4,0.34,100
+2beff75f-39d4-4230-b015-77f558d609ba,Wireless Earbuds,8,0.05,45
+cab3537b-3ab6-43d4-a58e-f771d3a4fe11,Flash Drive,2,0.05,15
+09a319a4-5616-4597-9457-ecfd09353395,Portable Charger,14,0.3,35
+64801cac-ce58-4324-a96a-9c392b5d1385,Wireless Charger,14,0.2,75
+d0fe57a2-d1e3-4174-bea4-358f662ae1a7,USB Hub,14,0.25,80
+5018cc2d-d17d-46a3-95e5-5d3604804983,External SSD,2,0.25,55
+c2c2dd84-0052-4823-a983-f803d4154060,Wireless Mouse,11,0.2,80
+23b8d3a7-326a-4a60-bc22-0bfa874354a8,Gaming Mouse,11,0.21,55
+cb8e195f-238f-422e-9e5c-164765dfcc9a,Gaming Keyboard,16,1.23,35
+4880082c-ce15-4f76-87c3-c543010bb085,Gaming Headset,8,0.54,25
+6908714d-b5c8-49d2-aa06-97b138ac72f4,Printer Scanner Copier,13,9.22,3000
+c238fbe3-aa46-4bb2-b5a8-368b6c9e1334,All-in-One PC,7,7.01,2700
+a3ee4ef2-b35d-4f56-a299-4ea0f6a05059,Smart Thermostat,9,0.17,15
+7d49d534-22f4-4dd7-9648-b8a4a693086e,Security Camera,6,0.42,35
+a6983048-915d-4da6-b0d8-728264b71a70,Wireless Router,9,0.44,500
+66e78767-d40e-48fb-b169-51485ddd9022,Noise-Canceling Headphones,8,0.32,75
+3fb6d14d-b0d6-4a2f-a86a-438ab6ffc9c7,Bluetooth Earbuds,8,0.14,35
+01f99d76-b97b-4ae3-98c8-8091c58ef32b,Power Strip,14,4.79,5
+ca10d4b5-24c1-4a3b-81f6-e6ee160a5418,WiFi Range Extender,9,0.62,30
+bcf1fd68-019e-4156-9891-764a00da9180,Wireless Keyboard,16,0.76,40
+cd97ad9e-12f9-4140-9190-8c36c207d386,Wireless Mouse and Keyboard Combo,16,1.25,60
+b0c15eb6-2a43-4c5f-8058-5b2b61e93299,Gaming Monitor,12,3.5,1500
+c5d461ab-59d9-44c4-b509-61d9037d7916,Curved Monitor,12,4.81,1600
+8c1f2869-61ad-46b1-8823-1e53b3288cda,UltraWide Monitor,12,8.92,1800
+62e3fa40-4a4a-4d04-9a09-1bbbe0cec879,4K Monitor,12,3.06,2500
+0e585341-438c-4b0d-910b-a4a265cee420,VR Headset,1,0.47,3000
+91c32b89-9f7c-4898-9ef9-e7e991fdd96b,Smart Glasses,1,0.32,1200

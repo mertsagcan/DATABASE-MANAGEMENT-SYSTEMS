@@ -1,0 +1,25 @@
+
+--This is the script I used for creating
+CREATE RULE user1 LOGIN PASSWORD password;
+
+After I switched to the user interface created I tried to query the cancelled orders and I got a n error message.
+
+--This is the error message
+SQL Error [42501]: ERROR: permission denied for table orders.
+
+I got this error because the user I created does not have the permission to query.
+
+To fix this, I had to switch back to the admin user to give permission to query the orders table to the newly created user.
+
+--This is the query I used to give permission to the newly created user.
+grant select on orders to user1
+
+Then I switched back to new user and tried to query orders table again.
+
+--This is the query I used to query cancelled orders
+select  * from orders o
+where o.status = 'CANCELLED'
+
+
+
+This query executed successfully, I got all cancelled orders.
